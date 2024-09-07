@@ -1,6 +1,8 @@
 
 ## Hi there 👋
 
+This only sample API with fastAPI to get folder, subfolder & file in server share in my network.
+and API to read file excel to proccess sent data in json to API server headoffice.
 
 
 <!--
